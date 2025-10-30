@@ -26,6 +26,12 @@ dist-ssr
 # Ignore WASM build output
 
 */target/
+target/
 
 *.lock
 *.yaml
+
+
+# Added by cargo
+
+/target
